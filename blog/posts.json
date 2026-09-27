@@ -3,6 +3,21 @@
   "siteName": "익스피디아 쿠폰 코드",
   "baseUrl": "https://exp.trip-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-23",
-  "posts": []
+  "updated": "2026-09-27",
+  "posts": [
+    {
+      "title": "익스피디아 쿠폰 코드 사용법과 예약 전 확인사항",
+      "slug": "expedia-coupon-code-usage-checklist",
+      "date": "2026-09-27",
+      "description": "익스피디아 할인코드 입력 방법과 카드사별 코드, 예약 전 꼭 확인해야 할 취소 규정과 코드 적용 오류 해결법을 정리했습니다.",
+      "image": "https://images.unsplash.com/photo-1542744095-291d1f67b221?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDc5NTczfDB8MXxzZWFyY2h8MXx8aG90ZWwlMjBib29raW5nJTIwbGFwdG9wJTIwc2NyZWVufGVufDF8MHx8fDE3OTA1MDEwOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "source": "unsplash",
+        "authorName": "Campaign Creators",
+        "authorUrl": "https://unsplash.com/@campaign_creators?utm_source=blog-admin&utm_medium=referral",
+        "photoUrl": "https://unsplash.com/photos/person-using-macbook-pro-OGOWDVLbMSc?utm_source=blog-admin&utm_medium=referral",
+        "siteUrl": "https://unsplash.com?utm_source=blog-admin&utm_medium=referral"
+      }
+    }
+  ]
 }
