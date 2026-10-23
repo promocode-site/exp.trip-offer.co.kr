@@ -1129,5 +1129,19 @@ img{max-width:100%}
 </div>
 <div class="xe-fbot"><p>© 익스피디아 할인코드 · exp.trip-offer.co.kr</p><a class="xe-top" href="#top">맨 위로</a></div>
 </div></footer>
+<script>
+document.addEventListener('click', function (event) {
+  var link = event.target.closest('a[href="https://app.ac/b3rLc8J63"][target="_blank"]');
+  if (!link || event.defaultPrevented || event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  var popup = window.open('about:blank', '_blank');
+  if (popup) {
+    popup.opener = null;
+    popup.location.replace(link.href);
+  } else {
+    window.location.assign(link.href);
+  }
+});
+</script>
 </body>
 </html>
